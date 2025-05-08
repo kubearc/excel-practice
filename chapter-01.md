@@ -1,4 +1,4 @@
-### Day 1: Home Tab – Basics
+### Chapter 1: Home Tab – Basics
 - Clipboard (cut, copy, paste)
 - Font formatting (bold, color, size)
 - Alignment, wrap text, merge
