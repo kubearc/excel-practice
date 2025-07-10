@@ -79,10 +79,19 @@ Format cells with values less than original total (column D).
 Choose a fill color (e.g., yellow).
 
 🧾 7. Final Sheet Preview
-Item	Quantity	Price per Item	Total Cost	Discount Applied	Discounted Total
-Item 1	10	         $20	          $200         	Yes            	$180
-Item 2	5          	$15           	$75         	No	            $75
-Item 3	20	        $10           	$200	        Yes            	$180
+
+
+| Item     | Quantity | Price per Item | Total Cost    | Discount Applied | Discounted Total |
+|----------|----------|----------------|---------------|------------------|------------------|
+
+| Item 1   | 10       | $20            | $200          | Yes              | $180             |
+| Item 2   | 5        | $15            | $75           | no               | $75              |
+| Item 3   | 20       | $10            | $200          | yes              | $180             |
+|----------|----------|----------------|---------------|------------------|------------------|
+
+
+
+
 
 💾 8. Save Your Work
 Be sure to save your workbook when finished!
