@@ -86,8 +86,3 @@ Drag the formula down to apply it for all students.
   - Low scores (e.g., < 50)
   - High performers (e.g., > 90%)
 
-> ✅ This sheet will automatically update results as scores are changed.
-
----
-
-Let me know if you’d like this enhanced with charts or pivot tables!
