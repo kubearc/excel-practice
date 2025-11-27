@@ -1,19 +1,18 @@
 
-````markdown
-# 📊 Excel Task: Student Pass/Fail Status
+# Excel Task: Student Pass/Fail Status
 
 ---
 
-## 🔧 Task Description
+## Task Description
 
 You are given a list of students and their marks in an exam.  
 Use the `IF` function to determine whether each student has **Passed** or **Failed**.
 
-📌 A student passes if their marks are **greater than or equal to 40**.
+ A student passes if their marks are **greater than or equal to 40**.
 
 ---
 
-## 📋 Data Setup
+## Data Setup
 
 | A             | B     | C        |
 |---------------|-------|----------|
@@ -26,7 +25,7 @@ Use the `IF` function to determine whether each student has **Passed** or **Fail
 
 ---
 
-## ✍️ Instructions
+## Instructions
 
 1. In **cell C2**, write an `IF` formula to check if the marks in cell B2 are greater than or equal to 40.
 2. If the condition is true, the result should be **"Pass"**.
@@ -35,7 +34,7 @@ Use the `IF` function to determine whether each student has **Passed** or **Fail
 
 ---
 
-## ✅ Expected Formula in C2
+## Expected Formula in C2
 
 ```excel
 =IF(B2>=40, "Pass", "Fail")
