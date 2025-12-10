@@ -1,10 +1,10 @@
-# 🎓 Student Performance Sheet in Excel
+# Student Performance Sheet in Excel
 
 This guide helps you create a Student Performance Sheet in Excel to calculate **Total**, **Average**, and **Percentage** of student scores.
 
 ---
 
-## 📋 Step 1: Set Up the Sheet Layout
+## Step 1: Set Up the Sheet Layout
 
 ### Headers
 In row 1, enter the following headers:
@@ -31,7 +31,7 @@ Add more rows for other students.
 
 ---
 
-## ➕ Step 2: Insert Formulas
+## Step 2: Insert Formulas
 
 ### Total
 In **F2**, use this formula:
@@ -49,7 +49,7 @@ In **H2**, use this formula:
 
 ---
 
-## 🎨 Step 3: Format the Data
+## Step 3: Format the Data
 
 - Format **Total** and **Average** columns as numbers (no decimals).
 - Format **Percentage** column as a percentage (e.g., 85%).
@@ -58,7 +58,7 @@ In **H2**, use this formula:
 
 ---
 
-## 📊 Example Layout
+## Example Layout
 
 | Student Name | Subject 1 | Subject 2 | Subject 3 | Subject 4 | Total | Average | Percentage |
 |--------------|-----------|-----------|-----------|-----------|-------|---------|------------|
@@ -68,7 +68,7 @@ In **H2**, use this formula:
 
 ---
 
-## ✨ Step 4: Final Touches
+## Step 4: Final Touches
 
 - Apply **conditional formatting** to highlight:
   - Low scores
