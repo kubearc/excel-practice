@@ -1,4 +1,4 @@
-# 📘 Excel Practice Task – Till Formula Tab
+# Excel Practice Task – Till Formula Tab
 
 This is a simple **Excel Task** designed for **beginners** to practice Excel tools and features.  
 It covers actions from the following tabs:
@@ -12,17 +12,17 @@ You will work with a small dataset to build a **Monthly Sales Report** and perfo
 
 ---
 
-## 📊 Scenario: Monthly Sales Report
+## Scenario: Monthly Sales Report
 
 Create an Excel spreadsheet to manage and analyze monthly sales data of 5 salespersons for 3 months: **January**, **February**, and **March**.
 
 ---
 
-## ✅ Step-by-Step Tasks by Tab
+## Step-by-Step Tasks by Tab
 
 ---
 
-### 🔵 HOME Tab Tasks
+### HOME Tab Tasks
 
 1. **Enter the Data:**
 
@@ -45,7 +45,7 @@ Create an Excel spreadsheet to manage and analyze monthly sales data of 5 salesp
 
 ---
 
-### 🟢 INSERT Tab Tasks
+### INSERT Tab Tasks
 
 4. **Insert a Column Chart:**
    - Select the data range (excluding totals).
@@ -61,7 +61,7 @@ Create an Excel spreadsheet to manage and analyze monthly sales data of 5 salesp
 
 ---
 
-### 🟡 PAGE LAYOUT Tab Tasks
+###  PAGE LAYOUT Tab Tasks
 
 7. **Set the Page:**
    - Change **Orientation** to **Landscape**.
