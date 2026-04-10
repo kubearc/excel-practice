@@ -34,15 +34,15 @@ Add more rows for other students.
 ## Step 2: Insert Formulas
 
 ### Total
-In **F2**, use this formula:
+In **F2**, use the formula to calculate total:
 
 
 ### Average
-In **G2**, use this formula:
+In **G2**, use the formula to calculate average:
 
 
 ### Percentage
-In **H2**, use this formula:
+In **H2**, use the formula to calculate percentage:
 
 *(Assuming each subject is out of 100)*
 
