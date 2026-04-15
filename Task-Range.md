@@ -20,7 +20,6 @@ Create headings:
 ### 🆔 **Emp ID (Series Fill)**
 
 * In A2 → type: **EMP001**
-* Drag down using fill handle to create:
 
   * EMP002, EMP003, EMP004… up to EMP010
 
@@ -32,14 +31,12 @@ Create headings:
 
   * Amandeep
   * Simran
-* Drag down → Excel repeats pattern
 
 ---
 
 ### 📅 **Month (AutoFill Series)**
 
 * In C2 → type: **January**
-* Drag down → Autofill months:
 
   * February, March, April…
 
@@ -49,9 +46,6 @@ Create headings:
 
 * In D2 → type: **10000**
 * In D3 → type: **12000**
-* Select both → drag down
-  👉 Excel continues series: 14000, 16000…
-
 ---
 
 ## 🔹 **Step 3: Advanced Range Filling**
@@ -62,15 +56,6 @@ Create headings:
 * Drag → AutoFill days of week
 
 ---
-
-### 🔢 **Fill Without Dragging**
-
-* Select cells → Home Tab → **Fill → Series**
-* Choose:
-
-  * Column
-  * Linear
-  * Step Value: 2000
 
 ---
 
