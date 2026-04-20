@@ -27,13 +27,12 @@ Create the following table starting from cell A1:
 
 ### 2. Formatting
 
-* Select the header row (A1:D1):
+* Select the header row make it bold:
 
-  * Click **Bold**
   * Apply **Light Blue Fill Color**
 * Select Price column:
 
-  * Go to **Home → Number → Currency**
+  * Add Currency**
 * Center align:
 
   * Price
@@ -49,20 +48,11 @@ Create the following table starting from cell A1:
 
 Highlight "Out of Stock" in red:
 
-1. Select column D (Stock Status)
-2. Go to **Home → Conditional Formatting → Highlight Cell Rules → Text that Contains**
-3. Type: `Out of Stock`
-4. Choose **Red fill with white text**
-
 ---
 
 ## INSERT Tab – Visual Enhancements
 
 ### 4. Convert to Table
-
-* Select A1:D9
-* insert table
-* Check **My table has headers** → OK
 
 ---
 
@@ -70,10 +60,8 @@ Highlight "Out of Stock" in red:
 
 * Select:
 
-  * Product Name and Price columns
-* Go to:
+  * Product Name and Price columns and insert cluster column chart.
 
-  * **Insert → Column Chart → Clustered Column**
 * Chart title:
   **Product Price Comparison**
 
@@ -108,7 +96,6 @@ Highlight "Out of Stock" in red:
 
 ### 9. Apply Theme
 
-* Page Layout → Themes
 * Choose a simple professional theme (e.g., **Facet** or **Ion**)
 
 ---
@@ -116,18 +103,12 @@ Highlight "Out of Stock" in red:
 ### 10. Set Print Area
 
 * Select table + chart + title
-* Page Layout → Print Area → **Set Print Area**
+
 
 ---
 
 ### 11. Fit to One Page
 
-* Page Layout → Scale to Fit:
-
-  * Width: 1 page
-  * Height: 1 page
-
----
 
 ##  Final Result Should Include
 
@@ -143,10 +124,9 @@ Highlight "Out of Stock" in red:
 
 * Alternate Row Colors:
 
-  * Click table → Table Design → Choose a style with banded rows
 * Footer:
 
-  * Insert → Header & Footer → Footer:
+  * Insert Footer:
 
   ```
   Created by: Your Name | Date: DD/MM/YYYY
