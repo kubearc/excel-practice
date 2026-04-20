@@ -1,4 +1,4 @@
-````markdown
+
 # FINAL TASK: High-Level Student Performance Sheet (Excel)
 
 This project guides you through creating a professional-level Excel sheet for tracking and evaluating student performance using formulas, formatting, and basic data visualization.
