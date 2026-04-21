@@ -1,6 +1,3 @@
-
-
-```markdown
 # ➕ Excel Task: Product Cost Calculator
 
 ## 🔧 Task Description
