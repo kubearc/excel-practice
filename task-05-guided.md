@@ -1,6 +1,4 @@
 
-
-````markdown
 # 📈 Excel Task: Currency Conversion Table (With Solution)
 
 ## 🔧 Task Description
@@ -31,8 +29,6 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your goal is 
 
    ```excel
    =B2*$C$1
-````
-
 * `B2` (Price in INR) is a **relative reference**.
 * `$C$1` (USD Rate) is an **absolute reference**.
 
