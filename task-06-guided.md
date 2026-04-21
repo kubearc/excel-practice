@@ -1,6 +1,4 @@
 
-
-````markdown
 # ➕ Excel Task: Product Cost Calculator (With Solution)
 
 ## 🔧 Task Description
@@ -26,8 +24,6 @@ This Excel task helps you practice using **arithmetic operators** (`+`, `-`, `*`
    Formula in **E2**:  
    ```excel
    =B2*C2
-````
-
 2. **Discount Amount** = `Total Cost × (Discount ÷ 100)`
    Formula in **F2**:
 
