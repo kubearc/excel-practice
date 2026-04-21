@@ -1,6 +1,3 @@
-
-
-````markdown
 # ✅ Excel Task: Student Eligibility Checker.
 
 ## 🔧 Task Description
@@ -29,8 +26,6 @@ This Excel task helps you understand how to use logical functions like `AND` and
    📍 Formula in **D2**:
    ```excel
    =AND(B2>=60, C2>=75)
-````
-
 2. In **column E**, use the `OR` function to check if at least one condition is met:
 
    * Marks ≥ 60
