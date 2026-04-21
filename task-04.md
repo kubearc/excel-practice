@@ -1,5 +1,4 @@
 
-````markdown
 # 📊 Excel Task: Sales Commission Calculation
 
 ## 🔧 Task Description
@@ -29,8 +28,6 @@ You are given a table of sales data for a team of sales representatives. Your go
 2. In **cell D2**, calculate the commission earned by Alice using the formula:  
    ```excel
    =B2*$C$1
-````
-
 * `B2` is a **relative reference** (it changes as you copy the formula down).
 * `$C$1` is an **absolute reference** (it stays fixed for all rows).
 
