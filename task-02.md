@@ -38,7 +38,7 @@ In rows **2 and below**, enter sample item data:
 ### 4. Add Conditional Logic for Discount
  formula checks if the Total Cost is above $100 and returns "Yes" or "No".
 
-### 5. Calculate Discounted Total
+### 5. Calculate Discounted Total with 10% Discount.
 
 ### 6. Apply Conditional Formatting
 
