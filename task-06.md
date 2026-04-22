@@ -19,17 +19,6 @@ You will calculate the **total cost**, **discount amount**, and **final price** 
 
 ---
 
-## 📌 Task Instructions
-
-1. **Total Cost** = Unit Price × Quantity  
-   ➤ Use the `*` operator.
-2. **Discount Amount** = Total Cost × (Discount ÷ 100)  
-   ➤ Use `*` and `/` operators.
-3. **Final Price** = Total Cost − Discount Amount  
-   ➤ Use the `-` operator.
-
----
-
 ## 🧠 Learning Goals
 
 - Practice using arithmetic operators: `+`, `-`, `*`, `/`.
