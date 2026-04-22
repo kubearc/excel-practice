@@ -1,6 +1,3 @@
-
-
-```markdown
 # 📈 Excel Task: Currency Conversion Table
 
 ## 🔧 Task Description
@@ -43,7 +40,3 @@ You are given a list of product prices in **Indian Rupees (INR)**. Your task is 
 
 > 💬 Challenge: Change the exchange rate to `0.013` and see how the converted prices update automatically.
 ```
-
----
-
-Would you like me to generate a few more variations for practice, or export these to `.md` files?
