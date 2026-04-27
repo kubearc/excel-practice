@@ -26,6 +26,6 @@ You are given a table of sales data for a team of sales representatives. Your go
 
 1. **Enter** the commission rate `10%` in **cell C1**.
 2. In **cell D2**, calculate the commission earned by Alice
-3. **Copy or drag the formula** from **D2 to D5** to calculate the commission for the other sales reps.
+3. calculate the commission for the other sales reps.
 
 ---
