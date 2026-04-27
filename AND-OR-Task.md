@@ -18,6 +18,15 @@ An employee will get a bonus only if:
 
 * Sales Amount is greater than 80000
 * Attendance is greater than or equal to 90%
+## Sample Output
+
+| Employee Name | Sales Amount | Attendance % | Bonus Eligible |
+| ------------- | ------------ | ------------ | -------------- |
+| Aman          | 85000        | 92           | TRUE           |
+| Priya         | 72000        | 88           | FALSE          |
+| Rohit         | 95000        | 96           | TRUE           |
+| Simran        | 60000        | 91           | FALSE          |
+| Karan         | 78000        | 85           | FALSE          |
 
 
 # Task 2: Student Pass Status (OR Function)
@@ -37,6 +46,15 @@ Create the following table:
 Student will pass if:
 
 * Theory Marks are greater than or equal to 30 or Practical Marks are greater than or equal to 30
+## Sample Output
+
+| Student Name | Theory Marks | Practical Marks | Pass Status |
+| ------------ | ------------ | --------------- | ----------- |
+| Neha         | 28           | 45              | TRUE        |
+| Arjun        | 35           | 22              | TRUE        |
+| Mehak        | 18           | 40              | TRUE        |
+| Raj          | 30           | 30              | TRUE        |
+| Tina         | 25           | 20              | FALSE       |
 
 
 # Task 3: Advanced Task Using AND + OR Together
@@ -57,6 +75,16 @@ Employee is eligible for promotion if:
 
 * Department is IT and Experience is greater than or equal to 5 and Performance Score is greater than 80
 
+## Sample Output
+
+| Employee | Department | Experience (Years) | Performance Score | Promotion Eligible |
+| -------- | ---------- | ------------------ | ----------------- | ------------------ |
+| Ravi     | IT         | 6                  | 88                | TRUE               |
+| Sonia    | HR         | 3                  | 91                | FALSE              |
+| Vikas    | IT         | 7                  | 75                | FALSE              |
+| Pooja    | Sales      | 5                  | 95                | FALSE              |
+| Manpreet | IT         | 2                  | 85                | FALSE              |
+
 
 # Task 4: Smart Discount System (AND + OR)
 
@@ -74,3 +102,12 @@ Discount will be given if:
 
 * Purchase Amount is greater than 10000 and Customer is a member or Coupon is applied
 
+## Sample Output
+
+| Customer | Purchase Amount | Membership | Coupon Applied | Discount Given |
+| -------- | --------------- | ---------- | -------------- | -------------- |
+| Aditi    | 12000           | Yes        | No             | TRUE           |
+| Mohit    | 7000            | No         | Yes            | TRUE           |
+| Riya     | 15000           | Yes        | Yes            | TRUE           |
+| Kabir    | 5000            | No         | No             | FALSE          |
+| Jaspreet | 11000           | No         | Yes            | TRUE           |
