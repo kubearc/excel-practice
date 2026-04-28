@@ -19,18 +19,15 @@ This Excel task helps you understand how to use logical functions like `AND` and
 
 ## ✅ Solution Steps
 
-1. In **column D**, use the `AND` function to check if both conditions are met:
+1. In **column D**, use the `AND` function to check ifconditions are met:
    - Marks ≥ 60
    - Attendance ≥ 75
 
 
-2. In **column E**, use the `OR` function to check if at least one condition is met:
+2. In **column E**, use the `OR` function to check if  condition is met:
 
    * Marks ≥ 60
    * Attendance ≥ 75
-
-
-3. **Drag both formulas** from row 2 down to row 5.
 
 ---
 
