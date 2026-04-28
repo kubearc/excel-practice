@@ -1,9 +1,6 @@
-Here is a `README.md` file for your Excel Sales Tracker project:
+# Excel Sales Tracker - README
 
-```markdown
-# 📊 Excel Sales Tracker - README
-
-## 🎯 Objective
+##  Objective
 
 This project aims to guide users in creating a **basic Excel sheet for Sales Tracking** using essential features from the following Excel tabs:
 
@@ -13,7 +10,7 @@ This project aims to guide users in creating a **basic Excel sheet for Sales Tra
 
 ---
 
-## 🧾 Sample Excel Sheet Layout: Sales Tracker
+##  Sample Excel Sheet Layout: Sales Tracker
 
 | Date       | Product   | Category    | Units Sold | Price per Unit | Total Sales   |
 |------------|-----------|-------------|-------------|----------------|----------------|
@@ -24,9 +21,9 @@ This project aims to guide users in creating a **basic Excel sheet for Sales Tra
 Add more products.
 ---
 
-## 🛠 Instructions Using Excel Tabs
+## Instructions Using Excel Tabs
 
-### 🔹 HOME Tab:
+###  HOME Tab:
 
 1. **Font & Alignment:**
    - Bold the headers.
@@ -41,7 +38,7 @@ Add more products.
 
 ---
 
-### 🔹 INSERT Tab:
+###  INSERT Tab:
 
 1. **Table:**
    - Convert the data range into an **Excel Table** for better management and formatting.
@@ -51,7 +48,7 @@ Add more products.
 
 ---
 
-### 🔹 DATA Tab:
+###  DATA Tab:
 
 1. **Sort & Filter:**
    - Use **Advanced Filter** to display only rows from the **Furniture** category.
@@ -65,10 +62,3 @@ Add more products.
 ## ✅ Outcome
 
 By following these instructions, users will build a well-formatted and functional **Sales Tracker** Excel sheet, leveraging basic yet powerful features of Excel for effective data tracking and analysis.
-
-## 📌 Notes
-
-This guide is suitable for beginners who want to learn and apply foundational Excel features for managing sales or similar datasets.
-
-```
-
