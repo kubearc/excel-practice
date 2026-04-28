@@ -78,18 +78,10 @@ Create an Excel spreadsheet to manage and analyze monthly sales data of 5 salesp
 
 ### 🟣 FORMULAS Tab Tasks
 
-10. **Add Total Sales Column:**
-   - Use this formula:
-     ```excel
-     =SUM(B2:D2)
-     ```
+10. **Calculate Total Sales**
 
-11. **Add Average Sales Column:**
-   - Use this formula:
-     ```excel
-     =AVERAGE(B2:D2)
-     ```
-
+11. **Calculate Average Sales**
+   
 12. **Use Formula Auditing Tools:**
    - Use **Trace Precedents** or **Evaluate Formula** on one formula cell.
 
@@ -101,9 +93,7 @@ Create an Excel spreadsheet to manage and analyze monthly sales data of 5 salesp
 
 ---
 
-## 📁 Bonus (Optional)
+## 📁 Bonus
 
 - Create a **dropdown** to filter months using **Data → Data Validation**.
-- Use an `IF` formula to highlight “Top Performer” if Total Sales > 40000:
-  ```excel
-  =IF(E2>40000,"Top Performer","")
+- Use an `IF` formula to highlight “Top Performer” if Total Sales > 40000
