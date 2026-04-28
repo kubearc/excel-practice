@@ -17,7 +17,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
 
 ---
 
-## 📌 Eligibility Criteria
+##  Eligibility Criteria
 
 1. **Eligible (AND)**:
    - Performance Rating ≥ 4
@@ -28,7 +28,7 @@ This task helps you practice using the `AND` and `OR` logical functions in Excel
  ---
   
 
-## ✅ Final Output Example
+##  Final Output Example
 
 | Employee Name | Performance Rating | Years of Experience | Eligible (AND) | Eligible (OR) |
 | ------------- | ------------------ | ------------------- | -------------- | ------------- |
