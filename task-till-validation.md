@@ -55,10 +55,4 @@ Add more products.
    - Use **Sort** to organize products by **Units Sold** or **Total Sales**.
 
 2. **Data Validation:**
-   - Add a **drop-down list** in the **Category** column using **Data Validation** to ensure consistent category entries (e.g., Electronics, Furniture, etc.).
-
----
-
-## ✅ Outcome
-
-By following these instructions, users will build a well-formatted and functional **Sales Tracker** Excel sheet, leveraging basic yet powerful features of Excel for effective data tracking and analysis.
+   - Add a **drop-down list** in the **Category** column to ensure consistent category entries (e.g., Electronics, Furniture, etc.).
