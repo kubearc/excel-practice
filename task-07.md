@@ -35,10 +35,10 @@ This Excel task helps you understand how to use logical functions like `AND` and
 
 | Student Name | Marks (%) | Attendance (%) | Eligible (AND) | Eligible (OR) |
 | ------------ | --------- | -------------- | -------------- | ------------- |
-| Aditi        | 85        | 92             | TRUE           | TRUE          |
-| Rohan        | 65        | 75             | TRUE           | TRUE          |
-| Simran       | 70        | 68             | FALSE          | TRUE          |
-| Arjun        | 45        | 85             | FALSE          | TRUE          |
+| Aditi        | 85        | 92             | Yes            | Yes           |
+| Rohan        | 65        | 75             | Yes            | Yes           |
+| Simran       | 70        | 68             | No             | Yes           |
+| Arjun        | 45        | 85             | No             | Yes           |
 ---
 
 > 🧪 Try changing the eligibility criteria or the student data to test different logical outcomes!
