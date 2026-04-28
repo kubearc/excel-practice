@@ -1,7 +1,7 @@
 
-# 📊 Excel Task: Sales Commission Calculation
+#  Excel Task: Sales Commission Calculation
 
-## 🔧 Task Description
+##  Task Description
 
 This is a simple and practical Excel task designed to help you understand the difference between **absolute** and **relative** cell references in Excel.
 
@@ -9,7 +9,7 @@ You are given a table of sales data for a team of sales representatives. Your go
 
 ---
 
-## 📁 Given Data
+##  Given Data
 
 | Rep Name | Total Sales | Commission Rate | Commission Earned |
 |----------|-------------|------------------|-------------------|
@@ -22,10 +22,9 @@ You are given a table of sales data for a team of sales representatives. Your go
 
 ---
 
-## 📌 Task Instructions
+##  Task Instructions
 
 1. **Enter** the commission rate `10%` in **cell C1**.
 2. In **cell D2**, calculate the commission earned by Alice
 3. calculate the commission for the other sales reps.
 
----
