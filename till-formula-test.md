@@ -1,20 +1,16 @@
-# 📘 Excel Practice Task – Employee Attendance Tracker
+#  Excel Practice Task – Employee Attendance Tracker
 
 This Excel exercise helps you practice using the **Home**, **Insert**, **Page Layout**, and **Formulas** tabs in a structured format.
 
 ---
 
-## 📊 Task Scenario: Employee Attendance Tracker
+## Task Scenario: Employee Attendance Tracker
 
 Create an Excel sheet to record the attendance of 6 employees over a 10-day working period.
 
 ---
 
-## ✅ Tasks to Complete by Tab
-
----
-
-### 🔵 HOME Tab
+### Step-1
 
 - Create a table with:
   - 6 employee names in rows.
@@ -28,7 +24,7 @@ Create an Excel sheet to record the attendance of 6 employees over a 10-day work
 
 ---
 
-### 🟢 INSERT Tab
+###  Step-2
 
 - Insert a table to manage your data.
 - Add a chart to display the number of presents/absents per employee.
@@ -36,7 +32,7 @@ Create an Excel sheet to record the attendance of 6 employees over a 10-day work
 
 ---
 
-### 🟡 PAGE LAYOUT Tab
+###  Step-3
 
 - Change orientation to **Landscape**.
 - Apply a professional theme or background color.
@@ -46,7 +42,7 @@ Create an Excel sheet to record the attendance of 6 employees over a 10-day work
 
 ---
 
-### 🟣 FORMULAS Tab
+###  Step-4
 
 - Create a column that calculates total days present for each employee.
 - Create another column to count total absents.
@@ -56,11 +52,9 @@ Create an Excel sheet to record the attendance of 6 employees over a 10-day work
 
 ---
 
-## 🎯 Bonus (Optional)
+## Step-5
 
 - Add conditional formatting to highlight employees below 80% attendance.
 - Create a dropdown in a new sheet to search attendance by employee name.
 
 ---
-
-> 🚀 Practice using the Ribbon tools and shortcuts instead of only formulas. This exercise will help you build a solid foundation in spreadsheet management.
