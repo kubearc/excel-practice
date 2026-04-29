@@ -18,6 +18,16 @@
 
 Add bonus marks to each student.
 
+## Sample Output
+
+| Student Name | Marks | Final Marks |
+| ------------ | ----- | ----------- |
+| Aman         | 78    | 83          |
+| Simran       | 65    | 70          |
+| Ravi         | 80    | 85          |
+| Neha         | 72    | 77          |
+
+
 #  Task 2: Product Price with Tax
 
 ##  Create Table
@@ -37,6 +47,16 @@ Add bonus marks to each student.
 | Tax Rate | 10% |
 
 Calculate final price after adding tax.
+
+## Sample Output
+
+| Product  | Price | Price with Tax |
+| -------- | ----- | -------------- |
+| Pen      | 20    | 22             |
+| Notebook | 50    | 55             |
+| Bag      | 500   | 550            |
+| Bottle   | 120   | 132            |
+
 
 #  Task 3: Salary Increment
 
@@ -58,6 +78,15 @@ Calculate final price after adding tax.
 
  Increase salary.
 
+## Sample Output
+
+| Employee | Salary | New Salary |
+| -------- | ------ | ---------- |
+| Raj      | 25000  | 27000      |
+| Karan    | 30000  | 32400      |
+| Meena    | 28000  | 30240      |
+| Pooja    | 35000  | 37800      |
+
 #  Task 4: Shop Discount Calculation
 
 ##  Create Table
@@ -77,3 +106,13 @@ Calculate final price after adding tax.
 | Discount | 15% |
 
 Calculate amount after discount.
+
+## Sample Output
+
+| Item  | Amount | Final Amount |
+| ----- | ------ | ------------ |
+| Shoes | 2000   | 1700         |
+| Watch | 3500   | 2975         |
+| Shirt | 1200   | 1020         |
+| Jeans | 1800   | 1530         |
+
