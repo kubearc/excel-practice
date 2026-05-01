@@ -1,8 +1,8 @@
 # Excel Tasks Using Pivot Table
 
-#  Task 1: Sales Summary by Department
+##  Task 1: Sales Summary by Department
 
-##  Create the Following Data
+###  Create the Following Data
 
 | A        | B          | C     | D     |
 | -------- | ---------- | ----- | ----- |
@@ -16,48 +16,34 @@
 | Karan    | IT         | Mar   | 30000 |
 | Meena    | Sales      | Mar   | 40000 |
 
----
-
-#  Task
-
 Create a Pivot Table to show:
 
 * Total Sales by Department
 
-#  Task 2: Monthly Sales Report
-
-##  Task
+##  Task 2: Monthly Sales Report
 
 Create Pivot Table to show:
 
 * Month-wise Sales Total
 
-# Task 3: Employee Wise Sales Analysis
-
-##  Task
+## Task 3: Employee Wise Sales Analysis
 
 Create Pivot Table showing:
 
 * Employee Name
 * Total Sales
 
-#  Task 4: Department and Month Wise Sales
-
-##  Task
+##  Task 4: Department and Month Wise Sales
 
 Create a Pivot Table showing:
 
 * Department-wise monthly sales report
 
-#  Task 5: Count Employees Using Pivot Table
-
-##  Task
+##  Task 5: Count Employees Using Pivot Table
 
 Find how many employees are in each department.
 
-#  Task 6: Create Pivot Chart
-
-##  Task
+##  Task 6: Create Pivot Chart
 
 Create a chart from Pivot Table.
 Choose:
