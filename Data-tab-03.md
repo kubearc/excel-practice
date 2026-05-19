@@ -17,6 +17,21 @@ This task simulates a real business profit prediction system.
 
 ---
 
+---
+
+# 🧾 Main Data Table
+
+| A                        | B     |
+| ------------------------ | ----- |
+| Selling Price per Laptop | 50000 |
+| Cost Price per Laptop    | 42000 |
+| Units Sold               | 100   |
+| Total Revenue            |       |
+| Total Cost               |       |
+| Profit                   |       |
+
+---
+
 # 🏢 Scenario
 
 A company sells laptops online.
